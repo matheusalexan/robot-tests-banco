@@ -1,0 +1,21 @@
+# Arquivos do Robot Framework
+output.xml
+log.html
+report.html
+debug.log
+*.png
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# IDEs / editores
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store

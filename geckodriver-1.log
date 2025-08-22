@@ -1,0 +1,16 @@
+1755893510967	geckodriver	INFO	Listening on 127.0.0.1:55346
+1755893510989	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n8/mhm8cfz57kn2c1300_8znc_r0000gn/T/rust_mozprofileoTYE2L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1755893511273	Marionette	INFO	Marionette enabled
+1755893511403	Marionette	INFO	Listening on port 55358
+Read port: 55358
+WebDriver BiDi listening on ws://127.0.0.1:55347
+1755893511471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: RSLoader: Recipe new-tab-train-hop-pilot-to-release-start-and-wait-for-escape-hatch-signal not returned from collection nimbus-secure-experiments because it contains feature newtabTrainhopAddon, which is disallowed for that collection.
+console.warn: RSLoader: Recipe train-hop-pilot-to-beta-start-and-wait-for-major-version-bump not returned from collection nimbus-secure-experiments because it contains feature newtabTrainhopAddon, which is disallowed for that collection.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 4310: TypeError: can't access property "closedGroups", winData is undefined
+1755893518155	Marionette	INFO	Stopped listening on port 55358
+console.error: "Failed to fetch https://ads.mozilla.org/v1/delete_user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
